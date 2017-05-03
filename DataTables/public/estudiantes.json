@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "codigo": "1",
+      "nombre": "Johannes",
+      "apellido": "Medina",
+      "foto_nombre": null,
+      "foto_descripcion": "Carnet",
+      "promedio_general": 9,
+      "pension": 100,
+      "sexo": "M",
+      "cedula": "1203598089",
+      "fecha_nacimiento": null,
+      "fecha_creacion": "1974-08-15T05:00:00.000Z",
+      "nivel": 1,
+      "cursos_codigo": "1"
+    },
+    {
+      "codigo": "2",
+      "nombre": "brenda",
+      "apellido": "arguello",
+      "foto_nombre": "foto.jpg",
+      "foto_descripcion": "Carnet",
+      "promedio_general": 10,
+      "pension": 50,
+      "sexo": "F",
+      "cedula": "0997524586",
+      "fecha_nacimiento": null,
+      "fecha_creacion": "1974-08-15T05:00:00.000Z",
+      "nivel": 1,
+      "cursos_codigo": "1"
+    },
+    {
+      "codigo": "3",
+      "nombre": "Richard",
+      "apellido": "Jara",
+      "foto_nombre": null,
+      "foto_descripcion": null,
+      "promedio_general": 8,
+      "pension": 60,
+      "sexo": "M",
+      "cedula": "0859784521",
+      "fecha_nacimiento": null,
+      "fecha_creacion": "2017-03-22T03:59:00.000Z",
+      "nivel": 2,
+      "cursos_codigo": "3"
+    },
+    {
+      "codigo": "4",
+      "nombre": "prueba",
+      "apellido": "prueb",
+      "foto_nombre": null,
+      "foto_descripcion": null,
+      "promedio_general": 10,
+      "pension": 50,
+      "sexo": "F",
+      "cedula": "123456789",
+      "fecha_nacimiento": null,
+      "fecha_creacion": "2017-02-03T04:12:00.000Z",
+      "nivel": 1,
+      "cursos_codigo": "1"
+    }
+  ]
+}
